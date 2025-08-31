@@ -1,0 +1,3 @@
+INIT | WRITE _ R
+WRITE | WRITE | R
+WRITE + HALT | R
